@@ -1,0 +1,1 @@
+Esse é apenas um simples projeto para facilitar a calcular os pesos de umas caixas em local de trabalho onde o fluxo dessa conta é intenso, então com apenas 3 cliques o valor dos pesos saem sem precisar de calculadora.
